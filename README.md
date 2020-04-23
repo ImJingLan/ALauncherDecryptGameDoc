@@ -1,2 +1,2 @@
-# ALauncherDecryptGameDoc
-A MineCraft Launcher‘s Decrypt Game Log
+# A MineCraft Launcher‘s Decrypt Game Log
+By ImJingLan
